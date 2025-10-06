@@ -5,5 +5,5 @@ seaborn
 tabulate
 colorama
 streamlit
-
 xlsxwriter
+
