@@ -1,8 +1,9 @@
-```txt
+
 pandas
 matplotlib
 seaborn
 tabulate
 colorama
 streamlit
+
 xlsxwriter
