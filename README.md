@@ -54,6 +54,7 @@ All charts are saved as `.png` images automatically.
    ```bash
    git clone https://github.com/yourusername/T20-WorldCup-Analyzer.git
    cd T20-WorldCup-Analyzer
+   ```
 
 ---
 
@@ -63,9 +64,16 @@ pip install -r requirements.txt
 ---
 
 Run the CLI version:
+```bash
 python cli_main.py
+```
 
 Upload your CSV file when prompted.
+
+---
+
+## 🚀 Live App
+👉 (https://cricket-analysis-00.streamlit.app/)
 
 ---
 
@@ -98,5 +106,6 @@ Top5_batsmen.png, Top5_wickets.png, Winning_percentage.png, etc
 ---
 
 📸 Preview:
+
 
 
