@@ -73,7 +73,7 @@ Upload your CSV file when prompted.
 ---
 
 ## 🚀 Live App
-👉 (https://cricket-analysis-00.streamlit.app/)
+👉 [View the app here](https://cricket-analysis-00.streamlit.app/)
 
 ---
 
@@ -106,6 +106,7 @@ Top5_batsmen.png, Top5_wickets.png, Winning_percentage.png, etc
 ---
 
 📸 Preview:
+
 
 
 
