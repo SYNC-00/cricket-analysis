@@ -110,8 +110,11 @@ Top5_batsmen.png, Top5_wickets.png, Winning_percentage.png, etc
 UI
 <img width="1920" height="1034" alt="UI" src="https://github.com/user-attachments/assets/8bd7273b-7767-4d2a-955e-7aa3ea9f2d3c" />
 
+----------------------------------------------------------------------------------------------------------------------------------
+
 
 Sample CSV:
 <img width="1920" height="1034" alt="demo" src="https://github.com/user-attachments/assets/873a4f82-765b-47a8-bda1-abc9743eb1b8" />
+
 
 
